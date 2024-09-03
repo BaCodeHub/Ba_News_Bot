@@ -18,10 +18,10 @@ Ba News Bot utilizes state-of-the-art similarity algorithms to analyze and compa
 Here are some screenshots of Ba News Bot in action:
 
 <p align="center">
-  <img src="./Screenshots/image1.jpeg" alt="Ba News Bot Screenshot 1" width="250"/>
-  <img src="./Screenshots/image2.jpeg" alt="Ba News Bot Screenshot 2" width="250"/>
-  <img src="./Screenshots/image3.jpeg" alt="Ba News Bot Screenshot 3" width="250"/>
-  <img src="./Screenshots/image4.jpeg" alt="Ba News Bot Screenshot 4" width="250"/>
+  <img src="./Screenshots/image1.jpg" alt="Ba News Bot Screenshot 1" width="250"/>
+  <img src="./Screenshots/image2.jpg" alt="Ba News Bot Screenshot 2" width="250"/>
+  <img src="./Screenshots/image3.jpg" alt="Ba News Bot Screenshot 3" width="250"/>
+  <img src="./Screenshots/image4.jpg" alt="Ba News Bot Screenshot 4" width="250"/>
 </p>
 
 ## Getting Started
